@@ -9,4 +9,4 @@ The LineRendererCurvinator component smooths out the target Line Renderer based 
 
 Handy for creating roads, rivers, paths etc.
 
-![Example Usage](example_tool.png)
+![Example Tool](example_tool.gif)
